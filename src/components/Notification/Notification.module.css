@@ -1,0 +1,7 @@
+.notmessage {
+  font-size: 18px;
+  font-weight: bold;
+  color: #ff0000; /* Измените цвет на желаемый */
+  text-align: center;
+  margin-top: 20px; /* Измените отступ сверху по вашим предпочтениям */
+}

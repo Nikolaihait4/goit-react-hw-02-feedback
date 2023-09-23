@@ -1,0 +1,32 @@
+/* FeedbackOption.module.css */
+
+.feedbacksection {
+  text-align: center;
+}
+
+.feedbackcomponent {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.feedbackitem {
+  margin: 0 10px;
+}
+
+.feedbackbutton {
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.feedbackbutton:hover {
+  background-color: #0056b3; /* Цвет кнопки при наведении */
+}
